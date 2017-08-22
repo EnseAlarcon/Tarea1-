@@ -1,6 +1,6 @@
-1.- ¿Què es un servidor?
+1.- Â¿QuÃ¨ es un servidor?
 
-Es una aplicacion en ejecuciòn, capaz de atender la peticiones de uno o varios clientes y devuelve una respuesta en concordancia.
+Es una aplicacion en ejecuciÃ²n, capaz de atender la peticiones de uno o varios clientes y devuelve una respuesta en concordancia.
 
 2.- caracteristicas:
 
@@ -8,5 +8,6 @@ Puede ser cetralizado o distribuido: el primero se refiere cuando todos los serv
 
 3.- tipos de servidores:
 
-hay dos tipos uno es a nivel maquina y otro a nivel software: el primero es un dispositivo
+hay dos tipos uno es a nivel maquina y otro a nivel software: el primero es un dispositivo que cuenta con microprocesador, memoria RAM, placa del sistema y disco duro con capacidad suficiente para enviar y recivir informacion.
+
 
