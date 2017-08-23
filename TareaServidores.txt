@@ -8,5 +8,7 @@ Puede ser cetralizado o distribuido: el primero se refiere cuando todos los serv
 
 3.- tipos de servidores:
 
-hay dos tipos uno es a nivel maquina y otro a nivel software: el primero es un dispositivo que cuenta con microprocesador, memoria RAM, placa del sistema y disco duro con capacidad suficiente para enviar y recibir informacion.el segundo reliza siertas tareas
+hay dos tipos de servidores uno es a nivel maquina y otro a nivel software:
+El primero es un dispositivo que cuenta con microprocesador, memoria RAM, placa del sistema y disco duro con capacidad suficiente para enviar y recibir informacion.
+El segundo es capaz de reliza y atender siertas tareas o peticiones en nombre de los usuarios y devolverle una respuesta en concordancia.
 
