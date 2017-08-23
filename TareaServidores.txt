@@ -12,3 +12,7 @@ hay dos tipos de servidores uno es a nivel maquina y otro a nivel software:
 El primero es un dispositivo que cuenta con microprocesador, memoria RAM, placa del sistema y disco duro con capacidad suficiente para enviar y recibir informacion.
 El segundo es capaz de reliza y atender siertas tareas o peticiones en nombre de los usuarios y devolverle una respuesta en concordancia.
 
+Ejemplo de los de Servidores mas habituales:
+
+Servidor de Base de Datos(DB):Es aquel que da servicios de almacenamiento y gestión de bases de datos a sus clientes. Una base de datos es un sistema que nos permite almacenar grandes cantidades de información. Por ejemplo, todos los datos de los clientes de un banco y sus movimientos en las cuentas.
+
