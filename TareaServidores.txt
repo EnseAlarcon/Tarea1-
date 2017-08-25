@@ -22,3 +22,8 @@ Servidor IRC (IRC Server): Es otra opcion para usuarios que buscan la discusion 
 
 Servidor de correo (Mail Server): Mueven y almacenan el correo electronico a traves de las redes corporativas (via LANs y WANs) y a traves de Internet.
 
+Servidor de fax. Está diseñado para sustituir uno o más aparatos de fax con software/hardware dedicados que se conectan con otros sistemas informáticos, como el correo electrónico. 
+
+Servidor de seguridad: Es un programa que protege tu computadora de intrusiones no deseadas.   
+
+Servidor proxy: En una red informática, es un servidor programa o dispositivo, que hace de intermediario en las peticiones de recursos que realiza un cliente (A) a otro servidor (C).
