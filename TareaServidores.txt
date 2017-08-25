@@ -27,3 +27,9 @@ Servidor de fax. Está diseñado para sustituir uno o más aparatos de fax con s
 Servidor de seguridad: Es un programa que protege tu computadora de intrusiones no deseadas.   
 
 Servidor proxy: En una red informática, es un servidor programa o dispositivo, que hace de intermediario en las peticiones de recursos que realiza un cliente (A) a otro servidor (C).
+
+Seridor cluster: son servidores  especializados en el almacenamiento de la informacion teniendo grandes capacidades  y permitiendo evitar  la perdida  de la informacion por  probmeas en otro servidor.
+
+Servidores dedicados:como ya sabesmo ahy servidores compartidos  si hay varias personas o empresas  usando  un mismo  servidor  o dedicados que son  exclusivos  para una sola persona o empresas
+
+Servidor de imagen: permite  alojar  grandes cantidades  de imagenes  sin consumir  recursos de nuestro servidor web  en el almacenamiento o para almacenar  fotografias personales o profecionales 
